@@ -5,7 +5,7 @@ The main goal is create a website with my professional information.
 
 # Preview
 
-<img src="https://github.com/Evrston/site-portfolio/blob/main/preview.png" height="618" alt="Preview Project Image"/>
+<img src="https://github.com/Evrston/site-portfolio/blob/main/preview.png" height="350" alt="Preview Project Image"/>
 
 ## Main concepts applied
 
