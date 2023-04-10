@@ -8,6 +8,14 @@
     font-size: 36px;
   }
 
+  p {
+    font-size: 24px;
+  }
+
+  a {
+    font-size: 28px;
+  }
+
   button {
     height: 80px;
     font-size: 24px;
@@ -134,11 +142,21 @@
     height: auto;
   }
 
+  .section-experiences {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
   .section-expericences-card {
     width: 90vw;
+    margin-top: 40px;
+  }
+
+  .section-contact {
+    padding-bottom: 60px;
   }
 
   .footer-content {
-    width: 100%;
+    width: 94vw;
   }
 }
